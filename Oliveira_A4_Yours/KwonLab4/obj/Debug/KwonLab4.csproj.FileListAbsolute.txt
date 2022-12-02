@@ -1,0 +1,44 @@
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\bin\Debug\KwonLab4.exe.config
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\bin\Debug\KwonLab4.exe
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\bin\Debug\KwonLab4.pdb
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.AssemblyReference.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.Form1.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.Properties.Resources.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.GenerateResource.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.CoreCompileInputs.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.exe
+C:\Users\kangk\OneDrive\Área de Trabalho\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.pdb
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.AssemblyReference.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.Form1.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.Properties.Resources.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.GenerateResource.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.CoreCompileInputs.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.exe
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.pdb
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\bin\Debug\KwonLab4.exe.config
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\bin\Debug\KwonLab4.exe
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\to do\lab4\lab4\KwonLab4\KwonLab4\bin\Debug\KwonLab4.pdb
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\bin\Debug\KwonLab4.exe.config
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\bin\Debug\KwonLab4.exe
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\bin\Debug\KwonLab4.pdb
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.AssemblyReference.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.Form1.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.Properties.Resources.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.GenerateResource.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.csproj.CoreCompileInputs.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.exe
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to programming\LAB\done\lab4\KwonLab4\KwonLab4\KwonLab4\obj\Debug\KwonLab4.pdb
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\bin\Debug\KwonLab4.exe.config
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\bin\Debug\KwonLab4.exe
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\bin\Debug\KwonLab4.pdb
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\obj\Debug\KwonLab4.csproj.AssemblyReference.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\obj\Debug\KwonLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\obj\Debug\KwonLab4.Form1.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\obj\Debug\KwonLab4.Properties.Resources.resources
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\obj\Debug\KwonLab4.csproj.GenerateResource.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\obj\Debug\KwonLab4.csproj.CoreCompileInputs.cache
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\obj\Debug\KwonLab4.exe
+C:\Users\kangk\OneDrive\Área de Trabalho\0NBCC\Introduction to Develpment tools\assignments\assignment_todo\assignment 4 programming\KwonLab4 - WORKING\KwonLab4\obj\Debug\KwonLab4.pdb

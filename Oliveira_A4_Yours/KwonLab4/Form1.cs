@@ -88,7 +88,7 @@ namespace KwonLab4
         private void btnBook_Click(object sender, EventArgs e)
         {
             int people;
-            double price;
+            double price = 0;
             string location = "Cuba";
             const int MINPEOPLE = 1;
             const int MAXPEOPLE = 10;
@@ -108,7 +108,6 @@ namespace KwonLab4
             //will validade if people is out of range 1-10
             else if (people<1 || people>10)
             {
-                int MINPEOPLE = 0;
                 DisplayMsg("People must be between "+ MINPEOPLE +"-"+MAXPEOPLE, "Input Error");
                 txtPeople.Focus();
                 txtPeople.SelectAll();
@@ -119,7 +118,7 @@ namespace KwonLab4
                 //this sequence will price and add the value formatted do currency 2 digits .
                 if (radMexico.Checked)
                 {
-                    location = "Mexico"
+                    location = "Mexico";
                     price= people * 2300.79;
                 }
                 else if (radFlorida.Checked)
